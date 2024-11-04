@@ -1,0 +1,53 @@
+{
+    "caretor": {
+        "confidence": 80,
+        "element": null,
+        "name": "caretor",
+        "path": ".images\\5f4815d0-1baf-45bf-8362-627d797aa649.png",
+        "screenPixelRatio": 1.0,
+        "screenResolutionHeight": 1080,
+        "screenResolutionWidth": 1920,
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAVCAIAAADw0OikAAAATUlEQVR4nGNce/M5A27AwsDAwPD/Py5pJjxa6SQdrCFFQDdWFSiGY6pAtxtNBRanIavAIr32xjOc0shy6NJocijSmHIIaaxy2J02WKQBpbETl42cUUAAAAAASUVORK5CYII=",
+        "type": "image"
+    },
+    "retainer_requested": {
+        "type": "image",
+        "path": ".images\\a60bf975-75fa-44bf-af2a-4668a7d9a1f0.png",
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALwAAAAbCAIAAABJMnKqAAAC/klEQVR4nO2av2rjQBDGJ8c16vYFRMDGjUBdSmEwWxiDwYV6lepk4gfYyqULBznVlepdBNyoWK7ZMp3AjSEQ9gX0CFfIUqTYWmt1ufiUzK8y1s7OrPbTfOs/N2maAoLo8OPaBSDdA0WDaIOiQbRB0SDaoGgQbVA0iDY/r10A8tlQSpsM45zXXULRfEeen5/VA+7u7hRXz9qTYKSCG0ntugRrFfbRZfwDBCNMXLuIq1J3pgl2aU4SwvzX+bskI7duJ51luvXMvy2vWRkfhWI53wMp5WQyieNYPazBQdgczej+5er38j8p4+sipfR9v9/vD4dD9cgGopG/n7jVMwEAZOSWrEJG93PO57YbybKTZA9rYU+CEZcxt2Iw1XmyMa5LiKrv15YBUHUyJioWUrw8iXoLYgKgvBxliunm8j3rHIViVquVYRjqwXWi2UyLTbAPi3TpAIBg9mFx9IrZ030E3kNIaZhsPdNZFjays05chO8HD6VL7+eRAADcWqRplkezDAmCTfdhknlY3SeDkygZrYug/TqSYL4tp12K7hDH8WQykfLYt7UUAw3ONEmYm4KIN8Um2nPOD6/lANWDSGej0unm/Dx0cNu2DPmyzzOYPev8ek6jzJ7F5zYhhL162+rxq12KDjEcDvv9vu/7UkpdxUADezK9xVvroNnDllHqCjJyp3Dc311wOWvdPO3KeD3kvqWV9Ngdk8H6jC+2S9EVDMNYrVaZbnQVA43ONM442MQCwBkHPN83Gbnv7nPeKeTL/vJ8inlalOGMg806KtoQAMDtoNyYzibND12mt32v80YpOk6hG13FQLMv95xxMF1HvuMtk9C1CQEAoGGydQDA4lObHHbpwiI2mR8DgoV6vpN5xIXPeJfKcHZxlj4Isv03RzOwK++cJDUhDwKgYbIEALOXL0eRglIK3TcoAADDMB4fH1sE3nyxf+4JRuJxM8f7rlBKm3wjjD8jIBXUvxJc5Kt1GuQTwL9GINqgaBBtUDSINigaRBsUDaINigbR5g93PHKSRk32qwAAAABJRU5ErkJggg==",
+        "screenResolutionWidth": 1920,
+        "screenResolutionHeight": 1080,
+        "screenPixelRatio": 1,
+        "confidence": 95,
+        "name": "retainer_requested"
+    },
+    "dates_costs_unselected": {
+        "type": "image",
+        "path": ".images\\b5ac6732-dec1-4d87-9ae8-ad6090d71706.png",
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEMAAAAPCAIAAAAwMuUzAAACHElEQVR4nN1WPWjbUBC+lGxaPQms4EKGOmj0JEwJBDmbQKA5wl2MTVAombwId+hUF3mwyFJTg6CDQKDNMoWQmjdp6CCwBkNCZNCkVXsH/dp5UkLrUPDxBunu+L77fbwDJwhhL+TN/w5gZ5JmshhWCDo98uJVWW054xqi3WDmeyJNgtAJQicIJ3BemMx62hGm/j9Q2jLRhpkTc7k15cXJlFIfYrWNgTsQLo11k6/+XbRl0XxbqpbeTP4pXt/NohbtCVWt/3zwAFA/Gzlh6oNnfOyi225LmPoAvsblTJAf0aIy+3cGqr8lsaYULR6HLbQ8NYbouY1nPjvpyNW7PxDFf1WZU9XSL0jUb62uI5PFGZ80z9e+rBTXCULnt7pSCseAOT7CaFG/ZfJWMtsdDFpGDTgi/HTlxZaJ9jj+Ftmcfj6C8YhOTNB7JNkTxL2jr0A0wxu9EBCtHgGobZb5iOHcqFcNVmrPy9DIGsZU1JPFr/FZjQJf49LtnPS2nZioMNEZNJMGujWFoCt9G4dLvueZ5f2LLowSNJwJn4ktn3/vXUfrngyDt15u+DRYCV3dRCi+xtHywpaJjuYBULw+E4viq158qHdb2cXoGQIxRNBgJWTeRhna8xFzfFSChjclRd307s2wetFMNdIkCC3lLDacqtam80a7npx8e0UzVmZoMftTtJQaQ3SwN6+V5zd+J0JXiPT7lWq3Pz3ZnxfkH36OlIxft+EMAAAAAElFTkSuQmCC",
+        "screenResolutionWidth": 1920,
+        "screenResolutionHeight": 1080,
+        "screenPixelRatio": 1,
+        "confidence": 80,
+        "name": "dates_costs"
+    },
+    "dates_costs_selected": {
+        "type": "image",
+        "path": ".images\\d4d3e187-82e4-4e2a-ad3f-70c7252095ac.png",
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEoAAAAOCAIAAAAHex1cAAACTElEQVR4nN1WwYraUBQ9r8w6FLob7EQpw5TgTjpQAjJdBDIf4H5IELoNRLqSUlyVBrLpzjG4l+CqNKCgCKHgIHQxhA5DmaSEWZf8wOvCGKO+6EidFry40Htfzj0357yLhHoa9jee/G8CjxsHAICwJnSMdFqpUD332L2HhvnGmv/U29qn0x23SKtXGnga9bSBAlgdYoSZD91fnwsmqV4Hf9E4nk2pUE+jnnopwrgwa+NtIB5Ag2HOM129FAHrqnW/LectmH20AFHyY49walOj3u7VO2AluRcngOv/CIFwRC4m84oo+c2j/vueA8Dt5avwm0XY3XzdTx0o8otuX3Vd8O3WAXDylGe1D9KA8TVZBYxacxq3sus7rHabVstpmXoaTUzr9j6POfWDJCeTjEf5uj/1mN/Iw+29taPAvjIAuaHSviQDRpPtH7nAMbJTQFHyZ9fknA04pzGQ4WS0Y6q3EEsLYLk6mgCA1SGzM85dxJefAb5TbxFAb2tfMyzn3EXA8oRTQFk+4gG+XII12QhYeJ5ZZaoXfrEA5F/mENjdZAEMlMwh5YaaiEz13EzzeGEQYTRcPM+/PpYB3Px+6HJaD5hdZYw3NDoGAOWVejhjX+CA6OcNo+9ZuQTAqX8fAoHdJYJJjHBomEQwz22ozYrOpHtYfKcAbi8f7+eoVTWJYNbGM0DnV5AoWeDWA/bXVKmnUW8lG+9rRklvp5OlwfTKJSFK/spTC9qmPkt20NtxfgEwZsIEZL+7dDuy33/KNq+W3QYRzOmXf/Na91y9P+6NfvpI2hkUAAAAAElFTkSuQmCC",
+        "screenResolutionWidth": 1920,
+        "screenResolutionHeight": 1080,
+        "screenPixelRatio": 1,
+        "confidence": 80,
+        "name": "dates_costs_selected"
+    },
+    "general": {
+        "type": "image",
+        "path": ".images\\6ff03064-80a8-4580-bc78-3925f3fe7ebe.png",
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAANCAIAAAC/ygC8AAABj0lEQVR4nGO8/OYrw4ACpoG1HsUFp+u5dUVgqP4wDe08WqUbuvAZmgtO13MnMey4/OYrBO1U7aGtI5AACwMDA8PjhXOvTdu52hYuKhWz8TJ97IeGwaObR7WUpHCoeLbEHxo1kKA7WqUbWtUbiiSCXY1/BiQ2j1YhIhcp8FFc8Oz+VWtVeagAXAPMLPfbJdCo8V/XtOQRAwMDw/6rin1fL7/5Ok8ra/lRXGq0k998vdxoy2DdBo9cqHpUwMLAwCClqH1010MGBjkGBgYG67bLb9oYHi/MKGJgYGA4vWsiw9SJulNhyrMfMigyMDgGWcgijMChRl0arqCeOwkmm+CGzQUMcurW1+49Y7DFGhHWE67PiJFD8I9uJ0nNsyX+SQw7Lr+xhTjlEIZeJgYGBgbZ+GStLHdE4j/ca5gFCS1Tt/yjBTNOw8zCmkEIqoFF8aPH17D4kAVqSuPXnUv8dUU8YH6alrARwmrbOcHfXYSbgYGBwXHaztW2WMIArxqpmBJVEU3dAig3oQBdN+NoqcwAAM2oyV7dI4VEAAAAAElFTkSuQmCC",
+        "screenResolutionWidth": 1920,
+        "screenResolutionHeight": 1080,
+        "screenPixelRatio": 1,
+        "confidence": 80,
+        "name": "general"
+    }
+}

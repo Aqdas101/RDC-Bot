@@ -1,0 +1,682 @@
+[
+    {
+        "name": "Adam Ford",
+        "email": "Adam.Ford@rdcollaborative.com"
+    },
+    {
+        "name": "AIM",
+        "email": "AIM@rdc-s111.com"
+    },
+    {
+        "name": "Alan Pullman",
+        "email": "alan.pullman@studio-111.com"
+    },
+    {
+        "name": "Alexander Kuby",
+        "email": "alex.kuby@rdcollaborative.com"
+    },
+    {
+        "name": "Alexandra Rodriguez",
+        "email": "alecks.rodriguez@rdcollaborative.com"
+    },
+    {
+        "name": "Amy Sisco",
+        "email": "amy.sisco@rdcollaborative.com"
+    },
+    {
+        "name": "Andrea Berg",
+        "email": "Andrea.Berg@rdc-s111.com"
+    },
+    {
+        "name": "Artem Panchenko",
+        "email": "artem.panchenko@rdcollaborative.com"
+    },
+    {
+        "name": "Athena Geracitano",
+        "email": "athena.geracitano@rdc-s111.com"
+    },
+    {
+        "name": "Ava Javaheri",
+        "email": "ava.javaheri@rdcollaborative.com"
+    },
+    {
+        "name": "Barbara Jetzer Gagneux",
+        "email": "barbara.jetzer@rdcollaborative.com"
+    },
+    {
+        "name": "Beth Flanigan",
+        "email": "beth.flanigan@rdcollaborative.com"
+    },
+    {
+        "name": "Bianca Stoelting",
+        "email": "Bianca.Stoelting@rdcollaborative.com"
+    },
+    {
+        "name": "Biyong He",
+        "email": "melissa.he@rdcollaborative.com"
+    },
+    {
+        "name": "Bradley Williams",
+        "email": "brad.williams@rdc-s111.com"
+    },
+    {
+        "name": "Branko Prebanda",
+        "email": "branko.prebanda@rdcollaborative.com"
+    },
+    {
+        "name": "Brittany LeBlanc",
+        "email": "brittany.leblanc@rdcollaborative.com"
+    },
+    {
+        "name": "Bryan Covarrubias",
+        "email": "Bryan.Covarrubias@studio-111.com"
+    },
+    {
+        "name": "Bryce Turk",
+        "email": "bryce.turk@studio-111.com"
+    },
+    {
+        "name": "Carina Mills",
+        "email": "carina.mills@studio-111.com"
+    },
+    {
+        "name": "Carl Reed",
+        "email": "cj.reed@rdcollaborative.com"
+    },
+    {
+        "name": "Carlos Hernandez",
+        "email": "carlos.hernandez@studio-111.com"
+    },
+    {
+        "name": "Carol Knight",
+        "email": "ck.knight@rdcollaborative.com"
+    },
+    {
+        "name": "Caroline Sinadino",
+        "email": "caroline.sinadino@rdcollaborative.com"
+    },
+    {
+        "name": "Casey Roccanova",
+        "email": "casey.roccanova@studio-111.com"
+    },
+    {
+        "name": "Chelsea Silvia",
+        "email": "chelsea.silvia@rdcollaborative.com"
+    },
+    {
+        "name": "Chelsea Thompson",
+        "email": "chelsea.thompson@rdc-s111.com"
+    },
+    {
+        "name": "Christian Nunez",
+        "email": "christian.nunez@studio-111.com"
+    },
+    {
+        "name": "Christine Sa'd",
+        "email": "christine.saad@rdcollaborative.com"
+    },
+    {
+        "name": "Christopher Gorney",
+        "email": "chris.gorney@rdcollaborative.com"
+    },
+    {
+        "name": "Corey Seip",
+        "email": "corey.seip@rdc-s111.com"
+    },
+    {
+        "name": "Dalane Nash",
+        "email": "dalane.nash@rdc-s111.com"
+    },
+    {
+        "name": "Dalya Al Murad",
+        "email": "dalya.almurad@rdcollaborative.com"
+    },
+    {
+        "name": "Danilo Concha",
+        "email": "danilo.concha@studio-111.com"
+    },
+    {
+        "name": "David Nicholson",
+        "email": "david.nicholson@studio-111.com"
+    },
+    {
+        "name": "David Sabunas",
+        "email": "david.sabunas@studio-111.com"
+    },
+    {
+        "name": "Dawn Quinn",
+        "email": "dawn.mcclelland@rdc-s111.com"
+    },
+    {
+        "name": "Dawson Desire",
+        "email": "dawson.desire@rdcollaborative.com"
+    },
+    {
+        "name": "Deanna Montoro",
+        "email": "deanna.montoro@rdc-s111.com"
+    },
+    {
+        "name": "Derek Heeb",
+        "email": "derek.heeb@rdcollaborative.com"
+    },
+    {
+        "name": "Donald Todd",
+        "email": "terry.todd@rdcollaborative.com"
+    },
+    {
+        "name": "Donnelle Wade",
+        "email": "donnelle.wade@rdc-s111.com"
+    },
+    {
+        "name": "Duho Jung",
+        "email": "duho.jung@studio-111.com"
+    },
+    {
+        "name": "Eddie Negrete",
+        "email": "eduardo.negrete@rdcollaborative.com"
+    },
+    {
+        "name": "Elise Kunihiro",
+        "email": "elise.kunihiro@rdcollaborative.com"
+    },
+    {
+        "name": "Emane Henderson",
+        "email": "Emane.Henderson@rdcollaborative.com"
+    },
+    {
+        "name": "Emily Flores",
+        "email": "Emily.Flores@rdc-s111.com"
+    },
+    {
+        "name": "Engin Deniz Karadere",
+        "email": "deniz.karadere@studio-111.com"
+    },
+    {
+        "name": "Eric Quintana",
+        "email": "eric.quintana@rdcollaborative.com"
+    },
+    {
+        "name": "Ethel Alfaro-Ramos",
+        "email": "Ethel.Alfaro@rdcollaborative.com"
+    },
+    {
+        "name": "Felix Betancourt",
+        "email": "Felix.Betancourt@studio-111.com"
+    },
+    {
+        "name": "Frank Wolden",
+        "email": "frank.wolden@rdcollaborative.com"
+    },
+    {
+        "name": "Gary Krenz",
+        "email": "gary.krenz@rdcollaborative.com"
+    },
+    {
+        "name": "George Brazier III",
+        "email": "george.brazier@rdc-s111.com"
+    },
+    {
+        "name": "Gerardo Suarez",
+        "email": "jerry.suarez@rdcollaborative.com"
+    },
+    {
+        "name": "Gihan Shihata",
+        "email": "Gigi.Shihata@rdcollaborative.com"
+    },
+    {
+        "name": "Gilberto Cruz",
+        "email": "gilberto.cruz@rdcollaborative.com"
+    },
+    {
+        "name": "Giulia Triassi",
+        "email": "giulia.triassi@studio-111.com"
+    },
+    {
+        "name": "Gustavo Neri",
+        "email": "gustavo.neri@rdcollaborative.com"
+    },
+    {
+        "name": "Haley Hamel",
+        "email": "haley.hamel@rdcollaborative.com"
+    },
+    {
+        "name": "Hanu Madireddy",
+        "email": "Hanu.Madireddy@rdcollaborative.com"
+    },
+    {
+        "name": "Hernan Lim",
+        "email": "Hernan.Lim@rdcollaborative.com"
+    },
+    {
+        "name": "Hiba Brewster",
+        "email": "hiba.brewster@studio-111.com"
+    },
+    {
+        "name": "Holly Deojay",
+        "email": "holly.deojay@rdc-s111.com"
+    },
+    {
+        "name": "Hunter Rowe",
+        "email": "hunter.rowe@rdcollaborative.com"
+    },
+    {
+        "name": "Ian Denny",
+        "email": "ian.denny@rdc-s111.com"
+    },
+    {
+        "name": "Ivan Avila",
+        "email": "ivan.avila@rdcollaborative.com"
+    },
+    {
+        "name": "Jackson Thilenius",
+        "email": "jackson.thilenius@rdcollaborative.com"
+    },
+    {
+        "name": "James Botha",
+        "email": "james.botha@rdcollaborative.com"
+    },
+    {
+        "name": "James Thury",
+        "email": "jim.thury@rdcollaborative.com"
+    },
+    {
+        "name": "Janet Le",
+        "email": "janet.le@studio-111.com"
+    },
+    {
+        "name": "Jarod Laub",
+        "email": "jarod.laub@rdc-s111.com"
+    },
+    {
+        "name": "Jasmine Williams",
+        "email": "jasmine.williams@studio-111.com"
+    },
+    {
+        "name": "Javier Martinez",
+        "email": "javier.martinez@rdc-s111.com"
+    },
+    {
+        "name": "Jeimmy Orellana",
+        "email": "jeimmy.orellana@rdc-s111.com"
+    },
+    {
+        "name": "Jennifer Mackie",
+        "email": "jennifer.mackie@rdc-s111.com"
+    },
+    {
+        "name": "Jennifer Nguyen",
+        "email": "jennifer.nguyen@studio-111.com"
+    },
+    {
+        "name": "Jitka Dekojova",
+        "email": "jitka.dekojova@studio-111.com"
+    },
+    {
+        "name": "Joanna Wong",
+        "email": "joanna.wong@rdc-s111.com"
+    },
+    {
+        "name": "Jordan Brown",
+        "email": "jordan.brown@rdc-s111.com"
+    },
+    {
+        "name": "Jordyn Watters",
+        "email": "jordyn.watters@studio-111.com"
+    },
+    {
+        "name": "Joseph Serruya",
+        "email": "joseph.serruya@rdcollaborative.com"
+    },
+    {
+        "name": "Joseph Tran",
+        "email": "joseph.tran@rdcollaborative.com"
+    },
+    {
+        "name": "Judd Mercado",
+        "email": "judd.mercado@rdcollaborative.com"
+    },
+    {
+        "name": "Justin Alfaro",
+        "email": "justin.alfaro@studio-111.com"
+    },
+    {
+        "name": "Justin Roth",
+        "email": "justin.roth@studio-111.com"
+    },
+    {
+        "name": "Katalin Swartz",
+        "email": "katalin.swartz@rdc-s111.com"
+    },
+    {
+        "name": "Katelyn Denley",
+        "email": "katelyn.reynolds@rdcollaborative.com"
+    },
+    {
+        "name": "Kellen Spafford",
+        "email": "kellen.spafford@rdcollaborative.com"
+    },
+    {
+        "name": "Kellie Phipps",
+        "email": "kellie.phipps@rdcollaborative.com"
+    },
+    {
+        "name": "Kentaroh Matsui",
+        "email": "Ken.Matsui@studio-111.com"
+    },
+    {
+        "name": "Kimberly Rodriguez",
+        "email": "kimberly.rodriguez@rdcollaborative.com"
+    },
+    {
+        "name": "Kirk Keller",
+        "email": "kirk.keller@studio-111.com"
+    },
+    {
+        "name": "Krystle Fader",
+        "email": "krystle.fader@rdcollaborative.com"
+    },
+    {
+        "name": "Kuniko Nickel",
+        "email": "kuniko.nickel@studio-111.com"
+    },
+    {
+        "name": "Lynn Azali",
+        "email": "Lynn.azali@rdcollaborative.com"
+    },
+    {
+        "name": "Marcus Luciani",
+        "email": "Marcus.luciani@studio-111.com"
+    },
+    {
+        "name": "Maria Keville",
+        "email": "virginia.keville@rdcollaborative.com"
+    },
+    {
+        "name": "Maria Setaro",
+        "email": "maria.setaro@studio-111.com"
+    },
+    {
+        "name": "MariaAngelic Dino",
+        "email": "Angelica.dino@rdcollaborative.com"
+    },
+    {
+        "name": "Marie Zaldarriaga",
+        "email": "marie.zaldarriaga@studio-111.com"
+    },
+    {
+        "name": "Marlon Steiner",
+        "email": "marlon.steiner@rdc-s111.com"
+    },
+    {
+        "name": "Mathew Vo",
+        "email": "mathew.vo@rdcollaborative.com"
+    },
+    {
+        "name": "Matthew Blanchette",
+        "email": "matthew.blanchette@rdcollaborative.com"
+    },
+    {
+        "name": "Matthew Terry",
+        "email": "matthew.terry@rdc-s111.com"
+    },
+    {
+        "name": "Matthew Wister",
+        "email": "matthew.wister@studio-111.com"
+    },
+    {
+        "name": "Maura Schafer",
+        "email": "maura.schafer@rdc-s111.com"
+    },
+    {
+        "name": "Mayra Pelayo",
+        "email": "mayra.pelayo@rdcollaborative.com"
+    },
+    {
+        "name": "Megan Flynn",
+        "email": "megan.largent@rdcollaborative.com"
+    },
+    {
+        "name": "Meihui Zhang",
+        "email": "meihui.zhang@rdcollaborative.com"
+    },
+    {
+        "name": "Michael Bohn",
+        "email": "mbohn@studio-111.com"
+    },
+    {
+        "name": "Mina Lai",
+        "email": "mina.lai@studio-111.com"
+    },
+    {
+        "name": "Mitra Esfandiari",
+        "email": "mitra.esfandiari@rdcollaborative.com"
+    },
+    {
+        "name": "Moiri Fleming",
+        "email": "moiri.fleming@studio-111.com"
+    },
+    {
+        "name": "Natalie Haub",
+        "email": "natalie.haub@rdcollaborative.com"
+    },
+    {
+        "name": "Nathan Adkins",
+        "email": "nathan.adkins@rdcollaborative.com"
+    },
+    {
+        "name": "Nelleah Reyes",
+        "email": "nelleah.reyes@rdcollaborative.com"
+    },
+    {
+        "name": "Nipa Patel",
+        "email": "nipa.patel@studio-111.com"
+    },
+    {
+        "name": "Paola Chirinos",
+        "email": "paola.chirinos@rdcollaborative.com"
+    },
+    {
+        "name": "Patrick Odicho",
+        "email": "patrick.odicho@studio-111.com"
+    },
+    {
+        "name": "Peter Flores",
+        "email": "peter.flores@rdcollaborative.com"
+    },
+    {
+        "name": "Phillip Trigas",
+        "email": "phillip.trigas@studio-111.com"
+    },
+    {
+        "name": "Prajakta Dabhade",
+        "email": "prajakta.dabhade@rdcollaborative.com"
+    },
+    {
+        "name": "Quang Hua",
+        "email": "quang.hua@rdcollaborative.com"
+    },
+    {
+        "name": "Ralph Watson",
+        "email": "ralph.watson@rdcollaborative.com"
+    },
+    {
+        "name": "Raquel Moreno",
+        "email": "Raquel.moreno@rdcollaborative.com"
+    },
+    {
+        "name": "Rashmi Mehadia",
+        "email": "rashmi.mehadia@rdcollaborative.com"
+    },
+    {
+        "name": "Rebecca Yu",
+        "email": "rebecca.yu@rdcollaborative.com"
+    },
+    {
+        "name": "Reed Suzuki",
+        "email": "reed.suzuki@studio-111.com"
+    },
+    {
+        "name": "Rhonda Taylor",
+        "email": "rhonda.taylor@rdc-s111.com"
+    },
+    {
+        "name": "Ritika Athwani",
+        "email": "ritika.athwani@rdcollaborative.com"
+    },
+    {
+        "name": "Robert Lisauskas",
+        "email": "robert.lisauskas@rdcollaborative.com"
+    },
+    {
+        "name": "Rolando Tapia",
+        "email": "rolando.tapia@studio-111.com"
+    },
+    {
+        "name": "Ronald Bernhardt",
+        "email": "ron.bernhardt@rdcollaborative.com"
+    },
+    {
+        "name": "Ryan Caldera",
+        "email": "ryan.caldera@studio-111.com"
+    },
+    {
+        "name": "Samuel Lewis",
+        "email": "samuel.lewis@rdcollaborative.com"
+    },
+    {
+        "name": "Sarah Guan",
+        "email": "sarah.guan@studio-111.com"
+    },
+    {
+        "name": "Sarah Hooper",
+        "email": "sarah.hooper@studio-111.com"
+    },
+    {
+        "name": "Scott Parker",
+        "email": "scott.parker@studio-111.com"
+    },
+    {
+        "name": "Sean Slater",
+        "email": "sean.slater@rdcollaborative.com"
+    },
+    {
+        "name": "Sean Unsell",
+        "email": "sean.unsell@rdcollaborative.com"
+    },
+    {
+        "name": "Shelby Harrison",
+        "email": "shelby.harrison@rdcollaborative.com"
+    },
+    {
+        "name": "Shruti Shankar",
+        "email": "shruti.shankar@studio-111.com"
+    },
+    {
+        "name": "Sinead Finnerty-Pyne",
+        "email": "sinead.finnerty-pyne@studio-111.com"
+    },
+    {
+        "name": "Sing Tong",
+        "email": "sing.tong@rdcollaborative.com"
+    },
+    {
+        "name": "Sonia Gomez",
+        "email": "sonia.gomez@rdcollaborative.com"
+    },
+    {
+        "name": "Steev Suos",
+        "email": "steev.suos@rdc-s111.com"
+    },
+    {
+        "name": "Stella Jones",
+        "email": "Stella.Jones@rdcollaborative.com"
+    },
+    {
+        "name": "Stephanie Sandoval",
+        "email": "stephanie.sandoval@rdcollaborative.com"
+    },
+    {
+        "name": "Stephanie Toro",
+        "email": "stephanie.toro@studio-111.com"
+    },
+    {
+        "name": "Steven Andrews",
+        "email": "steven.andrews@studio-111.com"
+    },
+    {
+        "name": "Suphitchaya Juntaradarapun",
+        "email": "chaya.juntara@rdcollaborative.com"
+    },
+    {
+        "name": "Svetlana Smolskaya",
+        "email": "lana.smolskaya@rdcollaborative.com"
+    },
+    {
+        "name": "Sydney Foster",
+        "email": "sydney.foster@rdcollaborative.com"
+    },
+    {
+        "name": "Tatiana Romero Mendoza",
+        "email": "tatiana.romero@studio-111.com"
+    },
+    {
+        "name": "Tejal Patel",
+        "email": "tejal.patel@rdc-s111.com"
+    },
+    {
+        "name": "Thomas Butler",
+        "email": "tom.butler@rdc-s111.com"
+    },
+    {
+        "name": "Tomas Salgado",
+        "email": "tomas.salgado@rdcollaborative.com"
+    },
+    {
+        "name": "Tony Yang",
+        "email": "tony.yang@rdcollaborative.com"
+    },
+    {
+        "name": "Valeria Kogan",
+        "email": "valeria.kogan@studio-111.com"
+    },
+    {
+        "name": "Vanessa Garcia",
+        "email": "vanessa.garcia@rdcollaborative.com"
+    },
+    {
+        "name": "Veronica Guzman",
+        "email": "veronica.guzman@studio-111.com"
+    },
+    {
+        "name": "Vinson Poellot",
+        "email": "vince.poellot@studio-111.com"
+    },
+    {
+        "name": "Virginia Maggiore",
+        "email": "virginia.maggiore@rdcollaborative.com"
+    },
+    {
+        "name": "William Ellsworth",
+        "email": "william.ellsworth@rdcollaborative.com"
+    },
+    {
+        "name": "William McLaughlin",
+        "email": "william.mclaughlin@rdc-s111.com"
+    },
+    {
+        "name": "Yanek Nemchev",
+        "email": "Yanek.Nemchev@rdcollaborative.com"
+    },
+    {
+        "name": "Yi Jin",
+        "email": "yi.jin@rdcollaborative.com"
+    },
+    {
+        "name": "Zhaoqi Zhu",
+        "email": "zhaoqi.zhu@rdcollaborative.com"
+    },
+    {
+        "name": "Zhiyu Lin",
+        "email": "Zhiyu.Lin@rdcollaborative.com"
+    }
+]

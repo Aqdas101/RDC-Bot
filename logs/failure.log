@@ -1,0 +1,7 @@
+2024-11-02 13:22:29.801 | ERROR    | logger_config:log_failure:12 - Employee.py --- Failed to find username and password field
+2024-11-02 13:26:05.135 | ERROR    | logger_config:log_failure:12 - Employee.py --- Failed to extract table data from webiste
+2024-11-02 13:30:57.235 | ERROR    | logger_config:log_failure:12 - inspec.py > Failed extracting text from window, reason: tesseract is not installed or not in PATH, see library documentation for installation instructions 
+2024-11-02 13:31:29.328 | ERROR    | logger_config:log_failure:12 - inspec.py > Failed extracting text from window, reason: tesseract is not installed or not in PATH, see library documentation for installation instructions 
+2024-11-02 13:31:29.330 | ERROR    | logger_config:log_failure:12 - inspec.py --- Failed to click on specified region
+2024-11-02 13:32:26.579 | ERROR    | logger_config:log_failure:12 - inspec.py > Failed extracting text from window, reason: tesseract is not installed or not in PATH, see library documentation for installation instructions 
+2024-11-02 13:32:26.581 | ERROR    | logger_config:log_failure:12 - inspec.py --- Failed to click on specified region

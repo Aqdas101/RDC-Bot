@@ -1,0 +1,20 @@
+2024-11-02 13:22:17.723 | INFO     | logger_config:log_success:9 - employee.py > Start get_emails function
+2024-11-02 13:22:19.182 | INFO     | logger_config:log_success:9 - employee.py--- Setting up Driver
+2024-11-02 13:22:21.549 | INFO     | logger_config:log_success:9 - Employee.py --- Navigated to https://login.ajera.com
+2024-11-02 13:22:25.554 | INFO     | logger_config:log_success:9 - Employee.py --- Finding username and password field
+2024-11-02 13:22:25.768 | INFO     | logger_config:log_success:9 - Employee.py --- Hit enter to submit
+2024-11-02 13:22:29.777 | INFO     | logger_config:log_success:9 - Employee.py --- sleeping for {st} seconds
+2024-11-02 13:22:32.151 | INFO     | logger_config:log_success:9 - Employee.py --- Driver has been quit successfully 
+
+
+2024-11-02 13:25:52.251 | INFO     | logger_config:log_success:9 - employee.py > Start get_emails function
+2024-11-02 13:25:54.003 | INFO     | logger_config:log_success:9 - employee.py--- Setting up Driver
+2024-11-02 13:25:56.748 | INFO     | logger_config:log_success:9 - Employee.py --- Navigated to https://login.ajera.com
+2024-11-02 13:26:00.751 | INFO     | logger_config:log_success:9 - Employee.py --- Finding username and password field
+2024-11-02 13:26:01.084 | INFO     | logger_config:log_success:9 - Employee.py --- Hit enter to submit
+2024-11-02 13:26:05.098 | INFO     | logger_config:log_success:9 - Employee.py --- sleeping for {st} seconds
+2024-11-02 13:26:07.505 | INFO     | logger_config:log_success:9 - Employee.py --- Driver has been quit successfully 
+
+
+2024-11-02 13:27:14.260 | INFO     | logger_config:log_success:9 - inspec.py --- Waiting for opening window > ocr:"Preview - 19219" 
+2024-11-02 13:28:23.193 | INFO     | logger_config:log_success:9 - inspec.py --- Waiting for opening window > ocr:"Preview - 19219" 
